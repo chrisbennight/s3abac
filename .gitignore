@@ -3,6 +3,7 @@
 .gradle
 bin/
 tmp/
+target/
 *.tmp
 *.bak
 *.swp
@@ -16,6 +17,7 @@ local.properties
 *.DS_Store
 *.swp
 *.out
+
 
 # External tool builders
 .externalToolBuilders/
